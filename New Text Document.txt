@@ -1,1 +1,3 @@
 Hello git bash learner
+I am very new to this program.
+I love being part of web and software developer course.
